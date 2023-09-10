@@ -1,0 +1,32 @@
+span{
+    font-weight: bold;
+}
+body{
+    background-image: url(./dark-bg.jpg);
+    
+}
+
+.bi.bi-instagram{
+    margin-right: 50px;
+}
+
+.bi.bi-twitter{
+    margin-right: 25px;
+}
+
+h2.featurette-heading.fw-normal.lh-1{
+    margin-top: 200px;
+}
+
+.text-body-secondary{
+    font-style: italic;
+}
+
+.featurette-image.img-fluid{
+    border-radius: 15px;
+}
+
+.mb-3.mb-md-0 {
+    font-weight: lighter;
+}
+
